@@ -1,0 +1,10 @@
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\NumberToWordConversionInerface\bin\Debug\NumberToWordConversionInerface.exe.config
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\NumberToWordConversionInerface\bin\Debug\NumberToWordConversionInerface.exe
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\NumberToWordConversionInerface\bin\Debug\NumberToWordConversionInerface.pdb
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\NumberToWordConversionInerface\bin\Debug\ConversionNumberToWords.dll
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\NumberToWordConversionInerface\bin\Debug\ConversionNumberToWords.pdb
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\NumberToWordConversionInerface\obj\Debug\NumberToWordConversionInerface.csprojResolveAssemblyReference.cache
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\NumberToWordConversionInerface\obj\Debug\NumberToWordConversionInerface.csproj.CoreCompileInputs.cache
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\NumberToWordConversionInerface\obj\Debug\NumberToWordConversionInerface.csproj.CopyComplete
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\NumberToWordConversionInerface\obj\Debug\NumberToWordConversionInerface.exe
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\NumberToWordConversionInerface\obj\Debug\NumberToWordConversionInerface.pdb

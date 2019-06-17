@@ -1,0 +1,5 @@
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\ConversionNumberToWords\bin\Debug\ConversionNumberToWords.dll
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\ConversionNumberToWords\bin\Debug\ConversionNumberToWords.pdb
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\ConversionNumberToWords\obj\Debug\NumberSystem.csproj.CoreCompileInputs.cache
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\ConversionNumberToWords\obj\Debug\ConversionNumberToWords.dll
+C:\Users\Moazzam\source\repos\ConversionNumberToWords\ConversionNumberToWords\obj\Debug\ConversionNumberToWords.pdb
